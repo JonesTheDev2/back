@@ -6,7 +6,7 @@ const DISCORD_TOKEN = process.env.DISCORD_TOKEN; // we’ll set this in Render
 const GUILD_ID = process.env.GUILD_ID; // your server ID
 
 const RoleMap = {
-  "123456789012345678": "Civilian",
+  "1423479554025979934": "Civilian",
   "234567890123456789": "Police Officer",
   "345678901234567890": "Firefighter"
 };
